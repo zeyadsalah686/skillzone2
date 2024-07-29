@@ -1,0 +1,1 @@
+This file is for public folder to seperate from products folder
